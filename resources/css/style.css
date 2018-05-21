@@ -1,15 +1,37 @@
 html {
   font-family: "Verdana";
-  font-weight: normal;
   text-align: center;
   background-color: black;
   }
 
-  h1 {
+.header  h1 {
+  font-weight: normal;
   font-size: 50px;
   color: white;
 }
 p {
   color: Aquamarine;
   font-size: 16px;
+}
+.phone {
+  align-items: center;
+
+}
+h3 {
+  font-size: 21px;
+  color: grey;
+  font-weight: 300;
+}
+.about {
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+.comingsoon {
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+.copyright {
+  text-align: right;
 }
